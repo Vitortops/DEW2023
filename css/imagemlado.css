@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, p {
+    position: relative;
+    width: 1000px;
+}
+
+img {
+    position: absolute;
+    left: 1080px;
+    top: 0px;
+    width: 500px;
+    height: 500px;
+}
