@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color:black;
+    color: goldenrod;
+    text-align: center;
+    padding: 20px;
+
+}
+
+
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 10px;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: goldenrod;
+}
+
+.main {
+    padding: 20px;
+}
+
+.categoria {
+    margin: 20px 0;
+}
+
+.categoria h2 {
+    font-size: 24px;
+}
+
+.imagem img {
+    max-width: 100%;
+    height: auto;
+}
